@@ -1,14 +1,12 @@
-# topicos-fuga-clientes
-Ingeniería de Sistemas - 6 ciclo - Topicos - Proyecto
-
-
-
-
-
-
-
-
-
+# Tópicos en Inteligencia de Negocios: Caso fuga de clientes
+## Grupo N°2
+Ingeniería de Sistemas - 6 ciclo - Topicos en Inteligencia de Negocios - Proyecto
+## Autores
+- Ispilco Quispe John Enderson
+- González Davila Milder
+- Molina Campos Jak Steve
+- Ruiz Rudas Luis Manuel 
+- Vásquez Chunque José Manuel
 
 
 
