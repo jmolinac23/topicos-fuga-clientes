@@ -1,16 +1,16 @@
 # Entornos virtuales
-.venv/
+.env
 venv/
-
-# Archivos de Python compilados
 __pycache__/
 *.pyc
 
-# Archivos del sistema
+# Carpeta temporal del datalake
+
+datalake/temp/
+
+# Archivos generados
+*.csv
+*.log
+
+# Configuración del sistema
 .DS_Store
-
-# Configuración del editor
-.vscode/
-
-# Archivos temporales
-temp
