@@ -17,7 +17,6 @@
     {"name": "TechSupport", "type": ["string", "null"]},
     {"name": "StreamingTV", "type": ["string", "null"]},
     {"name": "StreamingMovies", "type": ["string", "null"]},
-    {"name": "Contract", "type": ["string", "null"]},
     {"name": "PaperlessBilling", "type": ["string", "null"]},
     {"name": "PaymentMethod", "type": ["string", "null"]},
     {"name": "MonthlyCharges", "type": ["double", "null"]},
