@@ -14,3 +14,6 @@
 
  ===Para salir del entorno virtual=====
   deactivate
+
+  ====Trae primero los cambios de GitHub y luego subir los tuyos
+  git pull origin main --rebase
